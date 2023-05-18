@@ -83,14 +83,14 @@ header h2 span{
 #about .content-wrapper{
     padding-top: 80px;
     padding-bottom: 80px;
-    border: 5px dashed pink;
+    border: 3px solid black;
     margin: 20px auto;
 }
 
 #about h2{
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    color:#f40b80;
+    color:#817F80;
     padding-left: 50px;
 }
 
